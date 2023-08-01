@@ -1,4 +1,4 @@
-import Tariff from "./components/tariff";
+import Tariff from "./components/Tariff";
 import tariffs from "./data/tariffs.json";
 import "./styles/App.scss";
 
